@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Saurav Kumar Barnwal. A passionate aspiring Full Stack Developer focused on creating beautiful, user-friendly apps and building a responsive web site using React-Redux while writing clean code. Skilled in MERN stack, molded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth :) ⭐ Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills"
+    }
+  },
+  "projects": [
+  {
+    "title": "CoSchedule.com - Clone",
+    "startDate": "2022",
+    "description": "CoSchedule is a website that helps marketers get organized. CoSchedule completely transformed the way marketers plan, execute, and manage their marketing projects",
+    "images": [
+      "../images/coschedule.png",
+      "../images/coschedule (2).png",
+      "../images/coschedule (3).png"
+    ],
+    "url": "https://coschedulesite.netlify.app/",
+    "git": "https://github.com/sauravbarnwal9/Coschedule-Clone", 
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    },
+    {
+      "title": "Language Translator App",
+      "startDate": "2022",
+      "description": "This project is about building a web app for language translation using language translator API. Here you will be able to translate between languages very easily",
+      "images": [
+        "../images/translator (2).png",
+        "../images/translator (1).png"
+      ],
+      "url": "https://thunderous-toffee-8bfafc.netlify.app/?source=auto&target=en&q=",
+      "git": "https://github.com/sauravbarnwal9/Translator",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ],
+      "techno": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    } 
+,
+    {
+      "title": "Geekbuying.com - Clone",
+      "startDate": "2022",
+      "description": "The project deals with developing an e-commerce website for electronics care products. An online store where customers can select products of interest. The selected items collected in a shopping cart. For checkout, customer will be asked to fill address and payment information. Email is sent to the customer for OTP verification and for successful payment/order placed.",
+      "images": [
+        "../images/geekbuying.png",
+        "../images/geekbuyiing2.png",
+        "../images/geekbuying3.png"
+      ],
+      "url": "https://geekbuying-deploy.netlify.app/",
+      "git": "https://github.com/sauravbarnwal9/Geekbuying-Clone",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "YouTube.com - Clone",
+      "startDate": "2022",
+      "description": "A simple YouTube clone completed in two days , where user can find all the videos similar as YouTube app . where user can search for the video & download the videos .",
+      "images": [
+        "../images/youtube (2).png",
+        "../images/youtube.png"
+      
+      
+      ],
+      "url": "https://unique-longma-e86fb7.netlify.app/",
+      "git": "https://github.com/sauravbarnwal9/YouTube_Clone",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "mamaEarth.com - Clone",
+      "startDate": "2022",
+      "description": "The project deals with developing an e-commerce website for skin products. An online store where customers can select products of interest. The selected items collected in a shopping cart. For checkout, customer will be asked to fill address and payment information. Email is sent to the customer for OTP verification and for successful payment/order placed.",
+      "images": [
+        "../images/mamaearth.png",
+        "../images/mamaearth1 (1).png",
+        "../images/mamaearth2.png"
+      ],
+      "url": "https://tourmaline-boba-4e5158.netlify.app/index.html",
+      "git": "https://github.com/sauravbarnwal9/Mamaearth-Clone",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        }
+      
+      ],
+      "techno": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  
+  
+    
+  ]
+}
