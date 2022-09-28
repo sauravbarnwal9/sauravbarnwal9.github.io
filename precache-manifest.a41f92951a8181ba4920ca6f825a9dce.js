@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e8c1af21a596763f0f725401e607e60",
+    "revision": "1ccfafd0b3c0556ccdc57d96ee6a90df",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.e45429e2.chunk.css"
   },
   {
-    "revision": "5cf4d7daa956abc8868e",
+    "revision": "01de96e074699be74bc1",
     "url": "/static/css/main.682712f7.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d35f182f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cf4d7daa956abc8868e",
-    "url": "/static/js/main.ad865f86.chunk.js"
+    "revision": "01de96e074699be74bc1",
+    "url": "/static/js/main.a155aeb9.chunk.js"
   },
   {
     "revision": "9d56b0ea2705241215be",
     "url": "/static/js/runtime-main.cf8c75f0.js"
   },
   {
-    "revision": "bca6cb728077b14f91b236dea1c197fa",
-    "url": "/static/media/Saurav_Barnwal_Resume.bca6cb72.pdf"
+    "revision": "8f8a82312bcbf2423565afd525e8d8c9",
+    "url": "/static/media/Saurav_Barnwal_Resume.8f8a8231.pdf"
   }
 ]);
