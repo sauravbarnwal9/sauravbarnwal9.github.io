@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "name": "Saurav Kumar Barnwal",
+    "titles": [
+      "I Am Full Stack Developer",
+      "I Build Websites"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/sauravbarnwal9",
+        "class": "fab fa-github"
+      },
+     
+      {
+        "name": "Gmail",
+        "url": "mailto:sauravbarnwal9@gmail.com?subject=Hi",
+        "class": "fab fa-google"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/saurav-barnwal-60806923a/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "70"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "MongoDb",
+        "class": "devicon-mongodb-plain",
+        "level": "65"
+      },
+      {
+        "name": "Nodejs",
+        "class": "devicon-nodejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "npm",
+        "class": "devicon-npm-original-wordmark",
+        "level": "60"
+      }
+    ]
+  }
+}
